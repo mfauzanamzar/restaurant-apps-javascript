@@ -1,0 +1,44 @@
+{
+    "category" : [
+        {
+            "id" : 1,
+            "name" : "Fine Dining"
+        },
+        {
+            "id" : 2,
+            "name" : "Casual Dining"
+        },
+        {
+            "id" : 3,
+            "name" : "Contemporary Casual"
+        },
+        {
+            "id" : 4,
+            "name" : "Family Style"
+        },
+        {
+            "id" : 5,
+            "name" : "Fast Casual"
+        },
+        {
+            "id" : 6,
+            "name" : "Fast Food"
+        },
+        {
+            "id" : 7,
+            "name" : "Cafe"
+        },
+        {
+            "id" : 8,
+            "name" : "Buffet"
+        },
+        {
+            "id" : 9,
+            "name" : "Pop-Up Restaurant"
+        },
+        {
+            "id" : 10,
+            "name" : "Ghost Restaurant"
+        }
+    ]
+}

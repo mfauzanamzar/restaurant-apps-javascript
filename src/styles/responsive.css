@@ -1,0 +1,161 @@
+.posts-container{
+    display: grid;
+    grid-row-gap: 16px;
+}
+
+@media screen and (min-width: 455px) {
+    .hero{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 499px) {
+    .nav {
+        z-index: 100;
+        background-color: #C50000;
+        width: 200px;
+        height: 100%;
+        position: absolute;
+        top: 0;
+
+        /* This trasform moves the drawer off canvas. */
+        -webkit-transform: translate(-300px, 0);
+        transform: translate(-300px, 0);
+
+        /* Optionally, we animate the drawer. */
+        transition: transform 0.3s ease;
+    }
+
+    .open {
+        transform: translate(0, 0);
+    }
+
+    .nav__item {
+        display: list-item;
+        width: 100%;
+        text-align: left;
+    }
+
+    .header__title{
+        font-size: 2em;
+    }
+    .header-container__title{
+        min-height: 56px;
+    }
+}
+
+@media screen and (min-width: 500px) {
+    .header__menu {
+        display: none;
+    }
+
+    .header__inner{
+        display: block;
+    }
+}
+@media screen and (max-width: 600px){
+    .hero{        
+        background-image: url("./images/hero-small.jpg");
+    }
+}
+
+@media screen and (min-width: 601px){
+    .hero{        
+        background-image: url("./images/hero-large.jpg");
+    }
+}
+
+@media screen and (min-width: 650px) {
+    .post-item__content {
+        padding: 16px 32px 32px 32px;
+    }
+
+    .post-item__title {
+        font-size: 18px;
+    }
+
+    .post-item__description {
+        font-size: 14px;
+    }
+
+}
+   
+
+@media screen and (min-width: 700px) {
+    .posts-container {
+        display: grid;        
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 10px;
+        grid-row-gap: 16px;
+    }
+    .favorite{
+        flex: 1;
+    }
+    .headline__content {
+        padding: 16px 32px;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .nav__list {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 899px) {
+    .content{
+        flex-direction: column;
+    }
+
+    .category{
+        margin: 0 auto;
+    }
+}
+
+
+@media screen and (min-width: 900px) {   
+
+    .favorites-container{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .posts-container {
+        display: grid;
+    }
+    
+    .restaurant {
+        grid-template-columns: auto 1fr;
+    }
+   
+    .restaurant .restaurant__title {
+        grid-column-start: 1;
+        grid-column-end: 3;
+    }
+   
+    .restaurant .restaurant__overview {
+        grid-column-start: 1;
+        grid-column-end: 3;
+    }
+
+    .restaurant .restaurant__description{
+        grid-column-start: 1;
+        grid-column-end: 3;
+    }
+    
+}
+@media screen and (max-width: 965px){
+    .hero__inner {
+        height: 125px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    main {
+        max-width: 1200px;
+    }
+
+    .hero{
+        min-width: 1000px;
+    }
+}
