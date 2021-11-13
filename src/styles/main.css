@@ -57,10 +57,6 @@ a{
     align-items: center;
 }
 
-.header-container__title{
-    height: 200px;
-}
-
 .header__title{
     font-weight: 300;
     font-size: 4em;
