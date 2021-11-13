@@ -28,6 +28,14 @@ const ListRestaurant = {
                 <div id="categorys" class="category-container"></div>
             </div>
         </section>
+        <footer>
+        <div class="footer">
+            <p>All data obtained from 
+                <a tabindex="-1" href="https://restaurant-api.dicoding.dev/" target="_blank" rel="noreferrer">Dicoding</a>
+            </p>
+        </div>
+        
+    </footer>
       `;
   },
 

@@ -13,6 +13,14 @@ const Detail = {
       <div id="loadingDetail" class="lds-dual-ring"></div>
       <div id="restaurant" class="restaurant"></div>
       <div id="likeButtonContainer"></div>
+      <footer>
+        <div class="footer">
+            <p>All data obtained from 
+                <a tabindex="-1" href="https://restaurant-api.dicoding.dev/" target="_blank" rel="noreferrer">Dicoding</a>
+            </p>
+        </div>
+        
+    </footer>
       `;
   },
 

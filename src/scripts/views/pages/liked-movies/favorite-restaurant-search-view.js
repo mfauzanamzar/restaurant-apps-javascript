@@ -20,6 +20,14 @@ class FavoriteRestaurantSearchView {
                 <div id="posts" class="posts-container favorites-container"></div>
             </div>
         </section>
+        <footer>
+        <div class="footer">
+            <p>All data obtained from 
+                <a tabindex="-1" href="https://restaurant-api.dicoding.dev/" target="_blank" rel="noreferrer">Dicoding</a>
+            </p>
+        </div>
+        
+    </footer>
            `;
   }
 
