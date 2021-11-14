@@ -306,6 +306,7 @@ a{
 
 .search-icon{
     width: 38px;
+    min-height: 38px;
 }
 
 
