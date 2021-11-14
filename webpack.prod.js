@@ -6,6 +6,7 @@ const ImageminWebpWebpackPlugin = require('imagemin-webp-webpack-plugin');
 const TerserPlugin = require('terser-webpack-plugin');
 const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 const common = require('./webpack.common');
 
 module.exports = merge(common, {
@@ -57,13 +58,14 @@ module.exports = merge(common, {
   },
   plugins: [
     // new BundleAnalyzerPlugin(),
+    new CleanWebpackPlugin(),
     new MiniCssExtractPlugin(),
     new ImageminWebpWebpackPlugin({
       config: [
         {
           test: /\.(jpg)/,
           options: {
-            quality: 50,
+            quality: 100,
           },
         },
       ],
