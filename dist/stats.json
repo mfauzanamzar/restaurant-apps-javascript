@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "e51ae7064053f160390b",
-  "time": 8034,
-  "builtAt": 1636859295513,
+  "hash": "b7d79af92cd48851e8d0",
+  "time": 8147,
+  "builtAt": 1636860582228,
   "publicPath": "",
   "outputPath": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\dist",
   "assetsByChunkName": {
@@ -20,7 +20,7 @@
   "assets": [
     {
       "name": "0.bundle.js",
-      "size": 25122,
+      "size": 25170,
       "chunks": [
         0
       ],
@@ -282,7 +282,7 @@
       "rendered": true,
       "initial": true,
       "entry": false,
-      "size": 62595,
+      "size": 62643,
       "names": [
         "main~29d6ecf2"
       ],
@@ -290,7 +290,7 @@
         "main~29d6ecf2.css",
         "0.bundle.js"
       ],
-      "hash": "c08e171bf1b53ea93201",
+      "hash": "c5bcd4f8dcb15af5df7c",
       "siblings": [
         1,
         2,
@@ -364,7 +364,7 @@
           "name": "./src/scripts/views/app.js + 11 modules",
           "index": 11,
           "index2": 30,
-          "size": 47929,
+          "size": 47977,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -877,15 +877,15 @@
               "name": "./src/scripts/views/templates/template-creator.js",
               "index": 19,
               "index2": 15,
-              "size": 5344,
+              "size": 5392,
               "cacheable": true,
               "built": true,
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
+              "issuer": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\favorite.js",
               "issuerId": null,
-              "issuerName": "./src/scripts/views/pages/detail.js",
+              "issuerName": "./src/scripts/views/pages/favorite.js",
               "issuerPath": [
                 {
                   "id": 15,
@@ -904,8 +904,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js"
+                  "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\favorite.js",
+                  "name": "./src/scripts/views/pages/favorite.js"
                 }
               ],
               "failed": false,
@@ -1608,8 +1608,8 @@
             },
             {
               "id": null,
-              "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js"
+              "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\favorite.js",
+              "name": "./src/scripts/views/pages/favorite.js"
             },
             {
               "id": null,
@@ -1834,7 +1834,7 @@
             "default"
           ],
           "optimizationBailout": [
-            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js because of ./src/scripts/views/pages/detail.js"
+            "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js because of ./src/scripts/views/pages/favorite.js"
           ],
           "depth": 4,
           "modules": [
@@ -2150,9 +2150,9 @@
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
+              "issuer": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\favorite.js",
               "issuerId": null,
-              "issuerName": "./src/scripts/views/pages/detail.js",
+              "issuerName": "./src/scripts/views/pages/favorite.js",
               "issuerPath": [
                 {
                   "id": 15,
@@ -2171,8 +2171,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js"
+                  "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\favorite.js",
+                  "name": "./src/scripts/views/pages/favorite.js"
                 }
               ],
               "failed": false,
@@ -2268,8 +2268,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js"
+                  "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\favorite.js",
+                  "name": "./src/scripts/views/pages/favorite.js"
                 },
                 {
                   "id": null,
@@ -2346,8 +2346,8 @@
                 },
                 {
                   "id": null,
-                  "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
-                  "name": "./src/scripts/views/pages/detail.js"
+                  "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\favorite.js",
+                  "name": "./src/scripts/views/pages/favorite.js"
                 },
                 {
                   "id": null,
@@ -3127,8 +3127,8 @@
         },
         {
           "id": null,
-          "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
-          "name": "./src/scripts/views/pages/detail.js"
+          "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\favorite.js",
+          "name": "./src/scripts/views/pages/favorite.js"
         },
         {
           "id": null,
@@ -3353,7 +3353,7 @@
         "default"
       ],
       "optimizationBailout": [
-        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js because of ./src/scripts/views/pages/detail.js"
+        "ModuleConcatenation bailout: Cannot concat with ./src/scripts/globals/config.js because of ./src/scripts/views/pages/favorite.js"
       ],
       "depth": 4,
       "modules": [
@@ -3669,9 +3669,9 @@
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
+          "issuer": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\favorite.js",
           "issuerId": null,
-          "issuerName": "./src/scripts/views/pages/detail.js",
+          "issuerName": "./src/scripts/views/pages/favorite.js",
           "issuerPath": [
             {
               "id": 15,
@@ -3690,8 +3690,8 @@
             },
             {
               "id": null,
-              "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js"
+              "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\favorite.js",
+              "name": "./src/scripts/views/pages/favorite.js"
             }
           ],
           "failed": false,
@@ -3787,8 +3787,8 @@
             },
             {
               "id": null,
-              "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js"
+              "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\favorite.js",
+              "name": "./src/scripts/views/pages/favorite.js"
             },
             {
               "id": null,
@@ -3865,8 +3865,8 @@
             },
             {
               "id": null,
-              "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js"
+              "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\favorite.js",
+              "name": "./src/scripts/views/pages/favorite.js"
             },
             {
               "id": null,
@@ -4316,7 +4316,7 @@
       "name": "./src/scripts/views/app.js + 11 modules",
       "index": 11,
       "index2": 30,
-      "size": 47929,
+      "size": 47977,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -4829,15 +4829,15 @@
           "name": "./src/scripts/views/templates/template-creator.js",
           "index": 19,
           "index2": 15,
-          "size": 5344,
+          "size": 5392,
           "cacheable": true,
           "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
+          "issuer": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\favorite.js",
           "issuerId": null,
-          "issuerName": "./src/scripts/views/pages/detail.js",
+          "issuerName": "./src/scripts/views/pages/favorite.js",
           "issuerPath": [
             {
               "id": 15,
@@ -4856,8 +4856,8 @@
             },
             {
               "id": null,
-              "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
-              "name": "./src/scripts/views/pages/detail.js"
+              "identifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\favorite.js",
+              "name": "./src/scripts/views/pages/favorite.js"
             }
           ],
           "failed": false,

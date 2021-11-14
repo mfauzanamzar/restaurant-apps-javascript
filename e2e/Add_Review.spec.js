@@ -35,8 +35,8 @@ Scenario('adding review restaurant', async ({ I }) => {
   I.fillField('#review', review);
   I.click('#submit');
 
-  const itemName = locate('.restaurant-user__user').last();
-  const itemReview = locate('.restaurant-user__review p').last();
+  const itemName = locate('.temporary-user__user');
+  const itemReview = locate('.temporary-user__reviewer p');
 
   const reviewName = await I.grabTextFrom(itemName);
   const reviewReview = await I.grabTextFrom(itemReview);

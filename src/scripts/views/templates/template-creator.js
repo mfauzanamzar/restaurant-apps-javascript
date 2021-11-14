@@ -69,10 +69,10 @@ const createRestaurantDetailTemplate = (resto) => `
 
 const createReviewTemplate = (review) => `
     <div class="restaurant-user__reviewer">
-         <p class="restaurant-user__user">${review.name} </p>
+         <p class="restaurant-user__user  temporary-user__user">${review.name} </p>
          <p class=restaurant-user__date> · ${review.date}</p>
     </div>
-    <div class="restaurant-user__review">
+    <div class="restaurant-user__review  temporary-user__reviewer">
         <p>${review.review}</p>
     </div>`;
 
