@@ -140,12 +140,7 @@ a{
     margin: 0 auto;
 }
 
-.hero-container__title{
-    height: 88px;
-}
-
 .hero__title {
-    min-height: 88px;
     color: #fff;
     font-weight: 500;
     font-size: 36px;
