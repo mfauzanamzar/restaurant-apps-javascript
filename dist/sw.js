@@ -9,6 +9,8 @@ var serviceWorkerOption = {
     "/favicon.png",
     "/manifest.json",
     "/search-icon.png",
+    "/dist-images/hero-large.jpg",
+    "/dist-images/hero-small.jpg",
     "/icons/icon-144x144.png",
     "/icons/icon-192x192.png",
     "/icons/icon-384x384.png",
