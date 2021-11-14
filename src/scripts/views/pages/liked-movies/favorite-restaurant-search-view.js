@@ -6,7 +6,7 @@ class FavoriteRestaurantSearchView {
     <div class="search-favorite__container">
      <input placeholder="search your favorite restaurants..." id="query" type="text">
      <div class="search-favorite__button ">
-        <button aria-label="search favorite restaurant"><i class="fa fa-search"></i></button>
+        <button aria-label="search favorite restaurant"><img class="search-icon" src="/search-icon.png" alt="search"></button>
      </div>  
     </div>
     <div class="border-line__container">

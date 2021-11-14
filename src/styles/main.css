@@ -304,9 +304,8 @@ a{
     cursor: pointer;
 }
 
-.fa-search{
-    font-size: 20px;
-    color: #FFFDEF;
+.search-icon{
+    width: 38px;
 }
 
 
