@@ -2,7 +2,6 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const { merge } = require('webpack-merge');
 const path = require('path');
 const OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin');
-const ImageminWebpWebpackPlugin = require('imagemin-webp-webpack-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 const TerserPlugin = require('terser-webpack-plugin');
 const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer');
@@ -92,16 +91,5 @@ module.exports = merge(common, {
     }),
     new CleanWebpackPlugin(),
     new MiniCssExtractPlugin(),
-    new ImageminWebpWebpackPlugin({
-      config: [
-        {
-          test: /\.(jpg)/,
-          options: {
-            quality: 80,
-          },
-        },
-      ],
-      overrideExtension: true,
-    }),
   ],
 });

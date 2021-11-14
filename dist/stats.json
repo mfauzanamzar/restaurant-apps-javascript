@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "b7d79af92cd48851e8d0",
-  "time": 8147,
-  "builtAt": 1636860582228,
+  "hash": "d946b6ead01c7f079232",
+  "time": 11388,
+  "builtAt": 1636872529099,
   "publicPath": "",
   "outputPath": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\dist",
   "assetsByChunkName": {
@@ -192,7 +192,7 @@
     },
     {
       "name": "main~29d6ecf2.css",
-      "size": 8674,
+      "size": 8678,
       "chunks": [
         0
       ],
@@ -282,7 +282,7 @@
       "rendered": true,
       "initial": true,
       "entry": false,
-      "size": 62643,
+      "size": 62639,
       "names": [
         "main~29d6ecf2"
       ],
@@ -290,7 +290,7 @@
         "main~29d6ecf2.css",
         "0.bundle.js"
       ],
-      "hash": "c5bcd4f8dcb15af5df7c",
+      "hash": "e73015bb5379525afdd9",
       "siblings": [
         1,
         2,
@@ -1495,7 +1495,7 @@
           "name": "css ./node_modules/css-loader/dist/cjs.js??ref--5-1!./src/styles/responsive.css",
           "index": 6,
           "index2": 4,
-          "size": 3065,
+          "size": 3061,
           "cacheable": true,
           "built": false,
           "optional": false,
@@ -5681,7 +5681,7 @@
       "name": "css ./node_modules/css-loader/dist/cjs.js??ref--5-1!./src/styles/responsive.css",
       "index": 6,
       "index2": 4,
-      "size": 3065,
+      "size": 3061,
       "cacheable": true,
       "built": false,
       "optional": false,
@@ -6380,14 +6380,14 @@
           "rendered": true,
           "initial": true,
           "entry": true,
-          "size": 6145,
+          "size": 6141,
           "names": [
             "mini-css-extract-plugin"
           ],
           "files": [
             "*"
           ],
-          "hash": "78aef7c128f771080550",
+          "hash": "262176de68469fe9e7cd",
           "siblings": [],
           "parents": [],
           "children": [],
@@ -6399,7 +6399,7 @@
               "name": "./node_modules/css-loader/dist/cjs.js??ref--5-1!./src/styles/responsive.css",
               "index": 0,
               "index2": 1,
-              "size": 3628,
+              "size": 3624,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -6500,7 +6500,7 @@
           "name": "./node_modules/css-loader/dist/cjs.js??ref--5-1!./src/styles/responsive.css",
           "index": 0,
           "index2": 1,
-          "size": 3628,
+          "size": 3624,
           "cacheable": true,
           "built": true,
           "optional": false,

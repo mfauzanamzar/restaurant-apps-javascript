@@ -55,13 +55,13 @@
 }
 @media screen and (max-width: 600px){
     .hero{        
-        background-image:url("./dist-images/hero-small.webp"), url("./dist-images/hero-small.jpg");
+        background-image:url("/dist-images/hero-small.webp"), url("/dist-images/hero-small.jpg");
     }
 }
 
 @media screen and (min-width: 601px){
     .hero{        
-        background-image: url("./dist-images/hero-large.webp"), url("./dist-images/hero-large.jpg");
+        background-image: url("/dist-images/hero-large.webp"), url("/dist-images/hero-large.jpg");
     }
 }
 
