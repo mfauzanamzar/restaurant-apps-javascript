@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "7042b91f810350c9360a",
-  "time": 10558,
-  "builtAt": 1636856564149,
+  "hash": "174b1ac48c327d9700da",
+  "time": 7920,
+  "builtAt": 1636858595995,
   "publicPath": "",
   "outputPath": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\dist",
   "assetsByChunkName": {
@@ -20,7 +20,7 @@
   "assets": [
     {
       "name": "0.bundle.js",
-      "size": 24917,
+      "size": 24507,
       "chunks": [
         0
       ],
@@ -75,44 +75,6 @@
       "chunkNames": [
         "runtime"
       ],
-      "info": {},
-      "emitted": true
-    },
-    {
-      "name": "dist-images/hero-large.jpg",
-      "size": 49134,
-      "chunks": [],
-      "chunkNames": [],
-      "info": {
-        "copied": true,
-        "sourceFilename": "src/public/dist-images/hero-large.jpg"
-      },
-      "emitted": true
-    },
-    {
-      "name": "dist-images/hero-large.webp",
-      "size": 35182,
-      "chunks": [],
-      "chunkNames": [],
-      "info": {},
-      "emitted": true
-    },
-    {
-      "name": "dist-images/hero-small.jpg",
-      "size": 22944,
-      "chunks": [],
-      "chunkNames": [],
-      "info": {
-        "copied": true,
-        "sourceFilename": "src/public/dist-images/hero-small.jpg"
-      },
-      "emitted": true
-    },
-    {
-      "name": "dist-images/hero-small.webp",
-      "size": 17938,
-      "chunks": [],
-      "chunkNames": [],
       "info": {},
       "emitted": true
     },
@@ -192,7 +154,7 @@
     },
     {
       "name": "main~29d6ecf2.css",
-      "size": 8682,
+      "size": 8674,
       "chunks": [
         0
       ],
@@ -226,7 +188,7 @@
     },
     {
       "name": "sw.js",
-      "size": 12810,
+      "size": 12740,
       "chunks": [],
       "chunkNames": [],
       "info": {},
@@ -282,7 +244,7 @@
       "rendered": true,
       "initial": true,
       "entry": false,
-      "size": 62177,
+      "size": 61737,
       "names": [
         "main~29d6ecf2"
       ],
@@ -290,7 +252,7 @@
         "main~29d6ecf2.css",
         "0.bundle.js"
       ],
-      "hash": "e27e68c53dc6a694ee32",
+      "hash": "bdbee57a592394220a12",
       "siblings": [
         1,
         2,
@@ -364,7 +326,7 @@
           "name": "./src/scripts/views/app.js + 11 modules",
           "index": 11,
           "index2": 30,
-          "size": 47503,
+          "size": 47071,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -803,7 +765,7 @@
               "name": "./src/scripts/views/pages/list-restaurant.js",
               "index": 28,
               "index2": 26,
-              "size": 8912,
+              "size": 8480,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -1447,7 +1409,7 @@
           "name": "css ./node_modules/css-loader/dist/cjs.js??ref--5-1!./src/styles/main.css",
           "index": 4,
           "index2": 2,
-          "size": 9925,
+          "size": 9917,
           "cacheable": true,
           "built": false,
           "optional": false,
@@ -4316,7 +4278,7 @@
       "name": "./src/scripts/views/app.js + 11 modules",
       "index": 11,
       "index2": 30,
-      "size": 47503,
+      "size": 47071,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -4755,7 +4717,7 @@
           "name": "./src/scripts/views/pages/list-restaurant.js",
           "index": 28,
           "index2": 26,
-          "size": 8912,
+          "size": 8480,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -5633,7 +5595,7 @@
       "name": "css ./node_modules/css-loader/dist/cjs.js??ref--5-1!./src/styles/main.css",
       "index": 4,
       "index2": 2,
-      "size": 9925,
+      "size": 9917,
       "cacheable": true,
       "built": false,
       "optional": false,
@@ -5775,22 +5737,6 @@
         },
         {
           "type": "log",
-          "message": "determined that 'E:/Fauzan/WEB/Dicoding/Menjadi Front-end Web Developer Expert/restaurant-apps/src/public/dist-images/hero-large.jpg' should write to 'dist-images\\hero-large.jpg'"
-        },
-        {
-          "type": "log",
-          "message": "'to' option 'E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\dist' determinated as 'dir'"
-        },
-        {
-          "type": "log",
-          "message": "determined that 'E:/Fauzan/WEB/Dicoding/Menjadi Front-end Web Developer Expert/restaurant-apps/src/public/dist-images/hero-small.jpg' should write to 'dist-images\\hero-small.jpg'"
-        },
-        {
-          "type": "log",
-          "message": "'to' option 'E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\dist' determinated as 'dir'"
-        },
-        {
-          "type": "log",
           "message": "determined that 'E:/Fauzan/WEB/Dicoding/Menjadi Front-end Web Developer Expert/restaurant-apps/src/public/icons/icon-144x144.png' should write to 'icons\\icon-144x144.png'"
         },
         {
@@ -5855,22 +5801,6 @@
         },
         {
           "type": "log",
-          "message": "writing 'dist-images/hero-large.jpg' from 'E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\public\\dist-images\\hero-large.jpg' to compilation assets..."
-        },
-        {
-          "type": "log",
-          "message": "written 'dist-images/hero-large.jpg' from 'E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\public\\dist-images\\hero-large.jpg' to compilation assets"
-        },
-        {
-          "type": "log",
-          "message": "writing 'dist-images/hero-small.jpg' from 'E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\public\\dist-images\\hero-small.jpg' to compilation assets..."
-        },
-        {
-          "type": "log",
-          "message": "written 'dist-images/hero-small.jpg' from 'E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\public\\dist-images\\hero-small.jpg' to compilation assets"
-        },
-        {
-          "type": "log",
           "message": "writing 'icons/icon-144x144.png' from 'E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\public\\icons\\icon-144x144.png' to compilation assets..."
         },
         {
@@ -5914,7 +5844,7 @@
           "message": "finished to adding additional assets"
         }
       ],
-      "filteredEntries": 43,
+      "filteredEntries": 35,
       "debug": false
     }
   },
@@ -6130,14 +6060,14 @@
           "rendered": true,
           "initial": true,
           "entry": true,
-          "size": 13322,
+          "size": 13314,
           "names": [
             "mini-css-extract-plugin"
           ],
           "files": [
             "*"
           ],
-          "hash": "2b609cc29b469d58cb8b",
+          "hash": "6c468d2737a84baf4ca0",
           "siblings": [],
           "parents": [],
           "children": [],
@@ -6149,7 +6079,7 @@
               "name": "./node_modules/css-loader/dist/cjs.js??ref--5-1!./src/styles/main.css",
               "index": 0,
               "index2": 1,
-              "size": 10805,
+              "size": 10797,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -6250,7 +6180,7 @@
           "name": "./node_modules/css-loader/dist/cjs.js??ref--5-1!./src/styles/main.css",
           "index": 0,
           "index2": 1,
-          "size": 10805,
+          "size": 10797,
           "cacheable": true,
           "built": true,
           "optional": false,

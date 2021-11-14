@@ -6,15 +6,6 @@ import category from '../../../CATEGORY.json';
 const ListRestaurant = {
   async render() {
     return `
-    <div class="search-favorite__container">
-    <input placeholder="search your favorite restaurants..." id="query" type="text">
-    <div class="search-favorite__button ">
-       <button aria-label="search restaurant"><img class="search-icon" src="/search-icon.png" alt="search"></button>
-    </div>  
-   </div>
-   <div class="border-line__container">
-      <div class="border-line"></div>
-   </div>
     <div class="restaurant-not-found" id="restaurant-not-found"></div>
         <section id="content" class="content">
             <div class="explore">
