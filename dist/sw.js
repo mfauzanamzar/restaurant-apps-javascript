@@ -6,6 +6,7 @@ var serviceWorkerOption = {
     "/2.bundle.js",
     "/favicon.png",
     "/manifest.json",
+    "/search-icon.png",
     "/dist-images/hero-large.jpg",
     "/dist-images/hero-small.jpg",
     "/icons/icon-144x144.png",
