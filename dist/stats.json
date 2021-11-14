@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "174b1ac48c327d9700da",
-  "time": 8997,
-  "builtAt": 1636858830466,
+  "hash": "e51ae7064053f160390b",
+  "time": 8034,
+  "builtAt": 1636859295513,
   "publicPath": "",
   "outputPath": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\dist",
   "assetsByChunkName": {
@@ -20,7 +20,7 @@
   "assets": [
     {
       "name": "0.bundle.js",
-      "size": 24507,
+      "size": 25122,
       "chunks": [
         0
       ],
@@ -282,7 +282,7 @@
       "rendered": true,
       "initial": true,
       "entry": false,
-      "size": 61737,
+      "size": 62595,
       "names": [
         "main~29d6ecf2"
       ],
@@ -290,7 +290,7 @@
         "main~29d6ecf2.css",
         "0.bundle.js"
       ],
-      "hash": "bdbee57a592394220a12",
+      "hash": "c08e171bf1b53ea93201",
       "siblings": [
         1,
         2,
@@ -364,7 +364,7 @@
           "name": "./src/scripts/views/app.js + 11 modules",
           "index": 11,
           "index2": 30,
-          "size": 47071,
+          "size": 47929,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -586,7 +586,7 @@
                   "moduleName": "./src/scripts/views/pages/detail.js",
                   "type": "harmony import specifier",
                   "userRequest": "../../routes/url-parser",
-                  "loc": "43:20-29"
+                  "loc": "51:20-29"
                 },
                 {
                   "moduleId": null,
@@ -673,7 +673,7 @@
               "name": "./src/scripts/views/pages/detail.js",
               "index": 15,
               "index2": 20,
-              "size": 7838,
+              "size": 8264,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -803,7 +803,7 @@
               "name": "./src/scripts/views/pages/list-restaurant.js",
               "index": 28,
               "index2": 26,
-              "size": 8480,
+              "size": 8912,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -960,21 +960,21 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
-                  "module": "./src/scripts/views/pages/detail.js",
-                  "moduleName": "./src/scripts/views/pages/detail.js",
-                  "type": "harmony import specifier",
-                  "userRequest": "../templates/template-creator",
-                  "loc": "50:47-77"
-                },
-                {
-                  "moduleId": null,
                   "moduleIdentifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\liked-movies\\favorite-restaurant-search-view.js",
                   "module": "./src/scripts/views/pages/liked-movies/favorite-restaurant-search-view.js",
                   "moduleName": "./src/scripts/views/pages/liked-movies/favorite-restaurant-search-view.js",
                   "type": "harmony import specifier",
                   "userRequest": "../../templates/template-creator",
                   "loc": "52:37-69"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
+                  "module": "./src/scripts/views/pages/detail.js",
+                  "moduleName": "./src/scripts/views/pages/detail.js",
+                  "type": "harmony import specifier",
+                  "userRequest": "../templates/template-creator",
+                  "loc": "58:47-77"
                 },
                 {
                   "moduleId": null,
@@ -996,21 +996,21 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
-                  "module": "./src/scripts/views/pages/detail.js",
-                  "moduleName": "./src/scripts/views/pages/detail.js",
-                  "type": "harmony import specifier",
-                  "userRequest": "../templates/template-creator",
-                  "loc": "115:55-75"
-                },
-                {
-                  "moduleId": null,
                   "moduleIdentifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\utils\\like-button-presenter.js",
                   "module": "./src/scripts/utils/like-button-presenter.js",
                   "moduleName": "./src/scripts/utils/like-button-presenter.js",
                   "type": "harmony import specifier",
                   "userRequest": "../views/templates/template-creator",
                   "loc": "117:42-78"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
+                  "module": "./src/scripts/views/pages/detail.js",
+                  "moduleName": "./src/scripts/views/pages/detail.js",
+                  "type": "harmony import specifier",
+                  "userRequest": "../templates/template-creator",
+                  "loc": "123:55-75"
                 },
                 {
                   "moduleId": null,
@@ -1037,7 +1037,7 @@
                   "moduleName": "./src/scripts/views/pages/detail.js",
                   "type": "harmony import specifier",
                   "userRequest": "../templates/template-creator",
-                  "loc": "185:35-67"
+                  "loc": "193:35-67"
                 },
                 {
                   "moduleId": null,
@@ -1128,7 +1128,7 @@
                   "moduleName": "./src/scripts/views/pages/detail.js",
                   "type": "harmony import specifier",
                   "userRequest": "../../utils/like-button-presenter",
-                  "loc": "139:4-23"
+                  "loc": "147:4-23"
                 }
               ],
               "usedExports": [
@@ -1788,7 +1788,7 @@
               "moduleName": "./src/scripts/views/app.js + 11 modules",
               "type": "harmony import specifier",
               "userRequest": "../../data/restaurant-source",
-              "loc": "45:21-37"
+              "loc": "53:21-37"
             },
             {
               "moduleId": 8,
@@ -1815,7 +1815,7 @@
               "moduleName": "./src/scripts/views/app.js + 11 modules",
               "type": "harmony import specifier",
               "userRequest": "../../data/restaurant-source",
-              "loc": "112:33-49"
+              "loc": "118:33-49"
             },
             {
               "moduleId": 8,
@@ -1824,7 +1824,7 @@
               "moduleName": "./src/scripts/views/app.js + 11 modules",
               "type": "harmony import specifier",
               "userRequest": "../../data/restaurant-source",
-              "loc": "118:33-49"
+              "loc": "120:33-49"
             }
           ],
           "usedExports": [
@@ -1905,7 +1905,7 @@
                   "moduleName": "./src/scripts/views/app.js + 11 modules",
                   "type": "harmony import specifier",
                   "userRequest": "../../data/restaurant-source",
-                  "loc": "45:21-37"
+                  "loc": "53:21-37"
                 },
                 {
                   "moduleId": 8,
@@ -1932,7 +1932,7 @@
                   "moduleName": "./src/scripts/views/app.js + 11 modules",
                   "type": "harmony import specifier",
                   "userRequest": "../../data/restaurant-source",
-                  "loc": "112:33-49"
+                  "loc": "118:33-49"
                 },
                 {
                   "moduleId": 8,
@@ -1941,7 +1941,7 @@
                   "moduleName": "./src/scripts/views/app.js + 11 modules",
                   "type": "harmony import specifier",
                   "userRequest": "../../data/restaurant-source",
-                  "loc": "118:33-49"
+                  "loc": "120:33-49"
                 }
               ],
               "usedExports": [
@@ -2124,7 +2124,7 @@
               "moduleName": "./src/scripts/views/app.js + 11 modules",
               "type": "harmony import specifier",
               "userRequest": "../../data/favoriterestaurant-idb",
-              "loc": "141:27-48"
+              "loc": "149:27-48"
             }
           ],
           "usedExports": [
@@ -2223,7 +2223,7 @@
                   "moduleName": "./src/scripts/views/app.js + 11 modules",
                   "type": "harmony import specifier",
                   "userRequest": "../../data/favoriterestaurant-idb",
-                  "loc": "141:27-48"
+                  "loc": "149:27-48"
                 }
               ],
               "usedExports": [
@@ -3307,7 +3307,7 @@
           "moduleName": "./src/scripts/views/app.js + 11 modules",
           "type": "harmony import specifier",
           "userRequest": "../../data/restaurant-source",
-          "loc": "45:21-37"
+          "loc": "53:21-37"
         },
         {
           "moduleId": 8,
@@ -3334,7 +3334,7 @@
           "moduleName": "./src/scripts/views/app.js + 11 modules",
           "type": "harmony import specifier",
           "userRequest": "../../data/restaurant-source",
-          "loc": "112:33-49"
+          "loc": "118:33-49"
         },
         {
           "moduleId": 8,
@@ -3343,7 +3343,7 @@
           "moduleName": "./src/scripts/views/app.js + 11 modules",
           "type": "harmony import specifier",
           "userRequest": "../../data/restaurant-source",
-          "loc": "118:33-49"
+          "loc": "120:33-49"
         }
       ],
       "usedExports": [
@@ -3424,7 +3424,7 @@
               "moduleName": "./src/scripts/views/app.js + 11 modules",
               "type": "harmony import specifier",
               "userRequest": "../../data/restaurant-source",
-              "loc": "45:21-37"
+              "loc": "53:21-37"
             },
             {
               "moduleId": 8,
@@ -3451,7 +3451,7 @@
               "moduleName": "./src/scripts/views/app.js + 11 modules",
               "type": "harmony import specifier",
               "userRequest": "../../data/restaurant-source",
-              "loc": "112:33-49"
+              "loc": "118:33-49"
             },
             {
               "moduleId": 8,
@@ -3460,7 +3460,7 @@
               "moduleName": "./src/scripts/views/app.js + 11 modules",
               "type": "harmony import specifier",
               "userRequest": "../../data/restaurant-source",
-              "loc": "118:33-49"
+              "loc": "120:33-49"
             }
           ],
           "usedExports": [
@@ -3643,7 +3643,7 @@
           "moduleName": "./src/scripts/views/app.js + 11 modules",
           "type": "harmony import specifier",
           "userRequest": "../../data/favoriterestaurant-idb",
-          "loc": "141:27-48"
+          "loc": "149:27-48"
         }
       ],
       "usedExports": [
@@ -3742,7 +3742,7 @@
               "moduleName": "./src/scripts/views/app.js + 11 modules",
               "type": "harmony import specifier",
               "userRequest": "../../data/favoriterestaurant-idb",
-              "loc": "141:27-48"
+              "loc": "149:27-48"
             }
           ],
           "usedExports": [
@@ -4316,7 +4316,7 @@
       "name": "./src/scripts/views/app.js + 11 modules",
       "index": 11,
       "index2": 30,
-      "size": 47071,
+      "size": 47929,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -4538,7 +4538,7 @@
               "moduleName": "./src/scripts/views/pages/detail.js",
               "type": "harmony import specifier",
               "userRequest": "../../routes/url-parser",
-              "loc": "43:20-29"
+              "loc": "51:20-29"
             },
             {
               "moduleId": null,
@@ -4625,7 +4625,7 @@
           "name": "./src/scripts/views/pages/detail.js",
           "index": 15,
           "index2": 20,
-          "size": 7838,
+          "size": 8264,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -4755,7 +4755,7 @@
           "name": "./src/scripts/views/pages/list-restaurant.js",
           "index": 28,
           "index2": 26,
-          "size": 8480,
+          "size": 8912,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -4912,21 +4912,21 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
-              "module": "./src/scripts/views/pages/detail.js",
-              "moduleName": "./src/scripts/views/pages/detail.js",
-              "type": "harmony import specifier",
-              "userRequest": "../templates/template-creator",
-              "loc": "50:47-77"
-            },
-            {
-              "moduleId": null,
               "moduleIdentifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\liked-movies\\favorite-restaurant-search-view.js",
               "module": "./src/scripts/views/pages/liked-movies/favorite-restaurant-search-view.js",
               "moduleName": "./src/scripts/views/pages/liked-movies/favorite-restaurant-search-view.js",
               "type": "harmony import specifier",
               "userRequest": "../../templates/template-creator",
               "loc": "52:37-69"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
+              "module": "./src/scripts/views/pages/detail.js",
+              "moduleName": "./src/scripts/views/pages/detail.js",
+              "type": "harmony import specifier",
+              "userRequest": "../templates/template-creator",
+              "loc": "58:47-77"
             },
             {
               "moduleId": null,
@@ -4948,21 +4948,21 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
-              "module": "./src/scripts/views/pages/detail.js",
-              "moduleName": "./src/scripts/views/pages/detail.js",
-              "type": "harmony import specifier",
-              "userRequest": "../templates/template-creator",
-              "loc": "115:55-75"
-            },
-            {
-              "moduleId": null,
               "moduleIdentifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\utils\\like-button-presenter.js",
               "module": "./src/scripts/utils/like-button-presenter.js",
               "moduleName": "./src/scripts/utils/like-button-presenter.js",
               "type": "harmony import specifier",
               "userRequest": "../views/templates/template-creator",
               "loc": "117:42-78"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--4-0!E:\\Fauzan\\WEB\\Dicoding\\Menjadi Front-end Web Developer Expert\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
+              "module": "./src/scripts/views/pages/detail.js",
+              "moduleName": "./src/scripts/views/pages/detail.js",
+              "type": "harmony import specifier",
+              "userRequest": "../templates/template-creator",
+              "loc": "123:55-75"
             },
             {
               "moduleId": null,
@@ -4989,7 +4989,7 @@
               "moduleName": "./src/scripts/views/pages/detail.js",
               "type": "harmony import specifier",
               "userRequest": "../templates/template-creator",
-              "loc": "185:35-67"
+              "loc": "193:35-67"
             },
             {
               "moduleId": null,
@@ -5080,7 +5080,7 @@
               "moduleName": "./src/scripts/views/pages/detail.js",
               "type": "harmony import specifier",
               "userRequest": "../../utils/like-button-presenter",
-              "loc": "139:4-23"
+              "loc": "147:4-23"
             }
           ],
           "usedExports": [

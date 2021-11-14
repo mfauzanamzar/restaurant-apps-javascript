@@ -26,6 +26,14 @@ const Detail = {
 
   async afterRender() {
     try {
+      // lazy load font awesome
+      let scriptElement = document.querySelector('script[src="https://use.fontawesome.com/b070c8f1df.js"]');
+
+      if (!scriptElement) {
+        scriptElement = document.createElement('script');
+        scriptElement.src = 'https://use.fontawesome.com/b070c8f1df.js';
+        document.body.appendChild(scriptElement);
+      }
       this._hideBanner();
       const url = UrlParser.parseActiveUrlWithoutCombiner();
       const resto = await RestaurantSource.detailRestaurant(url.id);
